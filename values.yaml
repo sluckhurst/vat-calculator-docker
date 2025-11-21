@@ -1,0 +1,2 @@
+image: sluckhurst/vat:<+pipeline.sequenceId>
+replicas: 1
